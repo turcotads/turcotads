@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/turcotads/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;">
   </a>
-  <a href="aa" target="_blank">
+  <a href="https://www.threads.net/@turcotads" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="threads" style="margin-bottom: 5px;">
   </a>
 </div>
