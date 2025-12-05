@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=9&size=50&pause=500&center=true&vCenter=true&width=1000&height=80&lines=I'm+F%C3%A1bio+Madeira+Peres.;I'm+from+Brazil.;I'm+a+systems+analyst.;I'm+really+into+technology.;Glad+to+have+you!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=turcotads&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Araújo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=turcotads&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Fábio Madeira Peres" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turcotads&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117"/>
   
   <a href="https://www.linkedin.com/in/turcotads" target="_blank">
